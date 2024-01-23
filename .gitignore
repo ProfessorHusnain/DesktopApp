@@ -1,0 +1,6 @@
+# .gitignore
+Resturant/bin/
+Resturant/obj/
+packages/
+.vscode/
+.vs/
